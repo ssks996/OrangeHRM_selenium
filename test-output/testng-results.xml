@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T01:31:53 IST" name="Default suite" finished-at="2024-05-08T01:32:03 IST" duration-ms="9840">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T01:31:53 IST" name="Default test" finished-at="2024-05-08T01:32:03 IST" duration-ms="9840">
+      <class name="testng_prc.DriverFact">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testng_prc.DriverFact@4dbb42b7]" started-at="2024-05-08T01:31:53 IST" name="openBrowser" finished-at="2024-05-08T01:32:01 IST" duration-ms="8242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:testng_prc.DriverFact@4dbb42b7]" started-at="2024-05-08T01:32:01 IST" name="Login" data-provider="getData" finished-at="2024-05-08T01:32:01 IST" duration-ms="295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="click()[pri:0, instance:testng_prc.DriverFact@4dbb42b7]" started-at="2024-05-08T01:32:01 IST" name="click" finished-at="2024-05-08T01:32:03 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+      </class> <!-- testng_prc.DriverFact -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

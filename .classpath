@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/selenium-server-4.18.1.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/sss/My Testing Projects/orangeHRM/CommonJarFiles/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
